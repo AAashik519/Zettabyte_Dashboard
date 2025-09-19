@@ -9,8 +9,8 @@ import "./globals.css"
 
 export const metadata: Metadata = {
   title: "Zettabyte Technology Inc",
-  description: "Mini Dashboard",
-  generator: "Mini Dashboard",
+  description: "Zettabyte Technology Inc",
+  generator: "Zettabyte Technology Inc",
 }
 
 export default function RootLayout({
